@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Antichristian Presbyter: or, Antichrist transformed; Assuming the nevv shape of a Reformed Presbyter, as his last and subtlest disguise to deceive the nations. / By Richard Laurence, Marshal-Generall.</title>
+            <author>Lawrence, Richard, d. 1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88815</idno>
+            <idno type="STC">Wing L674</idno>
+            <idno type="STC">Thomason E370_22</idno>
+            <idno type="STC">ESTC R201297</idno>
+            <idno type="EEBO-CITATION">99861820</idno>
+            <idno type="PROQUEST">99861820</idno>
+            <idno type="VID">113965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113965)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E370[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Antichristian Presbyter: or, Antichrist transformed; Assuming the nevv shape of a Reformed Presbyter, as his last and subtlest disguise to deceive the nations. / By Richard Laurence, Marshal-Generall.</title>
+                  <author>Lawrence, Richard, d. 1684.</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the timly information of the people,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A variant has page 19 misnumbered 18.</note>
+                  <note>Annotation on Thomason copy: "Jan: 9th 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113965:1" rendition="simple:additions"/>
+            <p>THE Antichriſtian Presbyter: OR, ANTICHRIST TRANSFORMED; ASSUMING THE NEVV SHAPE OF A Reformed Presbyter, as his laſt and ſubtleſt Diſguiſe to deceive the NATIONS.</p>
+            <q>
+               <bibl>
+                  <hi>REVEL. 13.11, 13.</hi>
+               </bibl>
+               <p>And he had two hornes like a Lambe, and he ſpake as a Dragon, and he doth great wonders; ſo that he maketh fire to come down from Heaven on the Earth, in the ſight of men. And he deceiveth them that dwell upon the Earth, by reaſon of thoſe miracles.</p>
+            </q>
+            <p>By RICHARD LAURENCE, Marſhal-Generall.</p>
+            <p>
+               <hi>Printed for the Timly information of the People,</hi> 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113965:2"/>
+            <pb facs="tcp:113965:2"/>
+            <head>The Epiſtle to the READER.</head>
+            <opener>
+               <salute>CHRISTIAN READER,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Would not have thee flatter thy expecta<g ref="char:EOLhyphen"/>tion, by thinking to meet with ſomething in this <hi>Diſcourſe,</hi> that ſhould tend to the ſetting up, or caſting down any one practice or opinion now received or held forth by the <hi>Believers (of ſeverall judgments) in this Kingdom,</hi> which are but as ſo many Bub<g ref="char:EOLhyphen"/>les riſen upon the water: And when a ſtrong gale of that Spirit, which bloweth where it liſteth, ſhall breath upon them, they ſhall all break and fall, <hi>and ſhall become a pure River of living water, clear as Chryſtall proceeding out of the Throne of GOD, and of the Lambe:</hi> But that which J do heer endeavour to hold forth to thee, is only a diſcovery of that <hi>Myſtery of Ini<g ref="char:EOLhyphen"/>quity,</hi> which aſſumes ſhapes and formes of <hi>Religion,</hi> for no other end, but to deſtroy both <hi>Moral and Divine Rights and Pri<g ref="char:EOLhyphen"/>viledges.</hi>
+               <pb facs="tcp:113965:3"/>
+And having had occaſion, by rea<g ref="char:EOLhyphen"/>ſon of my employments in the <hi>Army,</hi> to ride through moſt parts of this Kingdome very lately; <hi>I</hi> have obſerved theſe things which <hi>I</hi> here repreſent to thee: hoping, that not only Thou, but thoſe whom <hi>England</hi> hath choſen to be their Overſeers, and <hi>God</hi> hath uſed to be their Deliverers, will obſerve what <g ref="char:V">Ʋ</g>ipers they have in their Boſome, ſuch as hold forth an Apple in their mouth, but have ſtings in their hearts, ſuch as only kiſ<g ref="char:EOLhyphen"/>ſed with an intent to betray. That which moved me to pen it, was out of conſcience to that <hi>Covenant,</hi> which many of theſe De<g ref="char:EOLhyphen"/>ceivers have ſwallowed down: it would be well for the Kingdome, if there were more <hi>Covenant-Keepers, though fewer Co<g ref="char:EOLhyphen"/>venant-takers.</hi> J ſhall direct thee to what followeth, <hi>&amp; reſt thine in that everlaſting Covenant, which doth not only bind us, but affect us in truth, and faithful<g ref="char:EOLhyphen"/>neſſe one to each other.</hi>
+            </p>
+            <closer>
+               <signed>R. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113965:3"/>
+            <head>A briefe Diſcovery of old Antichriſt in the new ſhape of <hi>Presbytery.</hi>
+            </head>
+            <p>EXperience teacheth us, that it hath ever been the way and practice of that man of Sin, that myſtery of Iniquity, that enemy to all peace and righteouſneſſe, [commonly called by us, <hi>Antichriſt,</hi> and known to us onely by the names of Pope, Jeſuite, and Pa<g ref="char:EOLhyphen"/>piſt, &amp;c.] to transform himſelfe into that ſhape or likeneſſe, which he conceived would he moſt advantagious to his deſignes.</p>
+            <p>For, before the time of this Parliament, we thought he had onely dwelt at <hi>Rome,</hi> and <hi>Spain,</hi> &amp;c. among the Papiſts, and that the hanging of thoſe halfe-ſcore men for the Gun-powder Plot, had frighted him cleare out of <hi>England.</hi> [But while we cried, Peace, Peace, behold trouble.] And when he thought the time of our deſolation d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew nigh, then the time of our deliverance was at hand.</p>
+            <p>For when he ſaw there was no remedy, he was very forward to have a Parliament, thinking they would have done as ſome had done before them; to have given all the peoples rights and priviledges to the King, to purchaſe to themſelves great eſtates in Court.</p>
+            <p>But God gave us men of publick ſpirits, which reſolved to offer up themſelves, and a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l that was deare to them, to maintain the peoples rights and priviledges, ſo much invaded by the great-Ones of this Kingdome, and their Ha<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers.</p>
+            <p>And before they were well warmed in their ſeats, there came petition after petition, and complaint after complaint, they could not tell which to heare firſt; many of them wondring the pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ple
+<pb n="2" facs="tcp:113965:4"/>
+ſhould lie under ſuch heavie oppreſſions, and yet be ſo ſilent. And when they began to enquire into the buſineſſe, they found the people were like a Horſe in a quagmire, the more they ſtrove, the deeper they ſunk: For though they had appealed from Court to Court; the higher they went, the worſe they were.</p>
+            <p>This ſeemed ſtrange to them, that in ſuch a place as <hi>England</hi> was (where there were ſo many grave and learned Divines, ſuch a powerfull Miniſtery, the whole Kingdome being lookt at as a Church of Jeſus Chriſt;) there ſhould be ſuch unheard of oppreſſion and tyranny.</p>
+            <p>And enquiring into the cauſe of theſe things, they began firſt to enquire whether that old enemy of mankind, which was al<g ref="char:EOLhyphen"/>wayes a deceiver of the people <hi>(Antichriſt)</hi> was not crept in a<g ref="char:EOLhyphen"/>mong us again. Which made <hi>Henry</hi> the eighth ſpill ſo much in<g ref="char:EOLhyphen"/>nocent blood in this kingdome, hanging to day a Papiſt for his Religion, and the next day a Proteſtant for his Religion; Ha<g ref="char:EOLhyphen"/>ving his reigne in burning and deſtroying religious people in this Kingdome, untill the end of Queen <hi>Mary,</hi> and was whol<g ref="char:EOLhyphen"/>ly caſt out of Church and State, as we thought, by the Parliament in the reigne of Queen <hi>Elizabeth.</hi>
+            </p>
+            <p>After which we grew ſecure, we thought <hi>Antichriſt</hi> had been but of one religion.</p>
+            <p>Then they began to enquire what Papiſts were about the King; thinking they might be the cauſe of all this miſchiefe: for they had not heard that this deceiver had been any thing but a Pope, or Jeſuit, or Papiſt at leaſt.</p>
+            <p>But when they had found out the truth of the buſineſſe; this cunning Sophiſter had turned Proteſtant, a zealous Common-prayer-book man, and would goe to Church twice a day at leaſt.</p>
+            <p>And after they found it was <hi>Antichriſt</hi> indeed onely changed his ſhape, they began to ſearch further, to ſee how large his do<g ref="char:EOLhyphen"/>minion was.</p>
+            <p>And well knowing he doth not uſe to trouble poore folk much, they began firſt at the Court; and going with the King to the Church, there they found him as buſie as could be, bow<g ref="char:EOLhyphen"/>ing to the Altar, and reading Common-prayer, and ſinging the Letany, with a great deale more ſuch ſtuffe.</p>
+            <p>And when he had done that; up ſtart he into the Pulpit in the
+<pb n="3" facs="tcp:113965:4"/>
+likeneſſe of the Kings Chaplain, and there he tells them the King was accountable to none but God for his actions; and, that all his ſubjects enjoy'd, was wholly at his diſpoſing, whether liberties, priviledges, or eſtates, &amp;c. and thoſe that would not ſay ſo, were traytors.</p>
+            <p>And after further enquiry, they found him in all the chief Of<g ref="char:EOLhyphen"/>fices about the Court; and for feare he ſhould not be neere e<g ref="char:EOLhyphen"/>nough to the King, he was crept into bed to him.</p>
+            <p>A little after they found he was not onely about the Kings perſon, but was gotten into moſt of the chiefe places of Judica<g ref="char:EOLhyphen"/>ture in the kingdome.</p>
+            <p>They found he had been a great Privy-Counſellor for many yeares, and had been acting many wicked deſignes tending to the inſlaving of the people, and deſtroying Religion.</p>
+            <p>He had been the onely means of procuring Ceremonies, and a Book of Common-prayer to be impoſed upon the Church of <hi>Scotland.</hi> And becauſe they would not ſubmit, they being im<g ref="char:EOLhyphen"/>poſed by the Kings authority, he perſwaded the King to raiſe an Army to force it upon them; and had not our God (which never was a friend to impoſers of formes) ſtood for them and us by them, we had been all enſlaved at that time.</p>
+            <p>After further enquiry, they found he had been in the likeneſſe of a learned Judge, and had rode moſt of the circuits in <hi>England,</hi> and had ſold the poore for a peece of bread. And where ever you finde him, you may obſerve hee loves money well: for hee did not uſe the Law to judge by, but judged for men as they were able to pay him. And from thence it was, you had ſo little protection by the Law.</p>
+            <p>He could perſwade the Judges, and moſt of the Lawyers in the Kingdome, that it were lawfull for the King to raiſe money of the free-born people of <hi>England,</hi> whether they were willing or no, and bids them call it <hi>Ship-money.</hi>
+            </p>
+            <p>He could make it lawful for the great men in the kingdom to take away all the poore Countre-ymens Commons, though they had never ſo ſtrong Charters to ſhew for them, onely tell them it was the Kings pleaſure.</p>
+            <p>If any well-minded Countrey-man which thought his own Birthwright and his Countries priviledge worth the ſtanding
+<pb n="4" facs="tcp:113965:5"/>
+for did but ſtand up in his Countries behalf, he preſently muſt be made an example, (and was befriended if he eſcapt with his life though he loſt all he had beſides) for fear ſome others ſhould play ſuch tricks.</p>
+            <p>Nay, he had almoſt perſwaded the Lords of the Copy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hold-M<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>r, that their <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nes which were never known to be but ſet ſums to be at their wills: And thereby would haue diſpoſſeſt many thouſands of the Commons of <hi>England</hi> of their Inheritance their Fathers left them.</p>
+            <p>Thus my honeſt Country-men, what ever you were born too, ye may ſee what you were neer brought to. If I ſhould inſtance in all particulars of this nature, I ſhould fill a Volume, as bigge as your Church Bible: If you be forgetfull, or have a bad memory, I ſhall commend the Star-Chamber to you for a ſtudy, which is a very convenient place for that purpoſe.</p>
+            <p>After they had diſcovered what work he had made in the State, they began to enquire, whether he was not crept into the Church or no, and when the truth came to be known he was Archbiſhop of <hi>Canterbury.</hi> And after further enquiry, it appeared, there was not a Dioceſſe in the Kingdome but he was the Biſhop of it, and not a Living worth a hundred pounds a year, but he had the diſ<g ref="char:EOLhyphen"/>poſing of it. Nay, becauſe he underſtood the people would not re<g ref="char:EOLhyphen"/>ſtore him all thoſe great Livings, which <hi>Henry</hi> the 8. took from him, under the ſame tearmes and names; he then held them, ra<g ref="char:EOLhyphen"/>ther then he would be without, he new chriſtened them too, And ſome he calls Church-livings or Spiritual means, or the Churches Inheritance. And I believe it is all the Inheritance he deſire his Churches ſhould have: for hee can make a whole County of Temporall meanes all Spirituall in half an houre, and make you believe its Blaſphemy to ſay to the contrary, and Sacriledge to take it away again.</p>
+            <p>There are two other little ſtipends, which like a Carefull Fa<g ref="char:EOLhyphen"/>ther, he hath procured for his youngeſt Sons; and thoſe hee calls Globe-land and Tythes: So rather then any of his Tribe ſhould not have an office in the Prieſthood, he will have them Leviticall Prieſts.</p>
+            <p>But if they were not fit for Prieſts, he had other employments
+<pb n="5" facs="tcp:113965:5"/>
+for them: for he was nor only a Courtier himſelf, but he kept a Court too.</p>
+            <p>And this he called a Spirituall Court: it had other names, as ſomtimes the Chancellours Court, or the Commiſſaries Court: but they that gave it the right name, called it the Bawdy Court: What the Revenue of this Court was yearly, I cannot informe you: but I am ſure, they maintained a great and ungodly com<g ref="char:EOLhyphen"/>pany.</p>
+            <p>And ſet but a-part the Crown-Land and the Inheritance of the Nobility in the Kingdom: and though his Tribe did not amount to the five hundred part of the people; yet he had engroſed into his hands the fourth part of the Commons Inheritance.</p>
+            <p>And if you pleaſe to mind what work he made in the State, and how well he throve in the Church, if he had not bin diſcovered &amp; ſtopt by the Parliament, he would have made as many goe bare-foot, and bare-leg in <hi>England,</hi> as doth in <hi>Scotland,</hi> in a very ſhort time.</p>
+            <p>After they found how rich and mighty hee was grown in the Kingdom, they began to inquire into his actions, and there they found he had been doing the very ſame things in this ſhape he u<g ref="char:EOLhyphen"/>ſed to do in the other.</p>
+            <p>There were all the godly Miniſters in the Kingdom either ba<g ref="char:EOLhyphen"/>niſhed or ſilenced; except ſome few which were able to make good friends, or could diſpenſe with moſt of his Popiſh Ceremo<g ref="char:EOLhyphen"/>nies, with many thouſands of godly people ſcattered all over the world, as they were at <hi>Jeruſalem;</hi> witneſſe, <hi>New-England, Vir<g ref="char:EOLhyphen"/>ginia,</hi> with many of the remote Iſlands, <hi>Holland</hi> is not exempted.</p>
+            <p>If you would have further ſatisfaction, I ſhall referre you to the foure Champions of theſe times, viz. Mr. <hi>Prynne,</hi> Dr. <hi>Baſt<g ref="char:EOLhyphen"/>wick,</hi> Mr. <hi>Burton,</hi> and <hi>Lieu. Col. Lilburn:</hi> I wiſh them to remem<g ref="char:EOLhyphen"/>ber the loſſe of their eares, their branding in the face, their pillo<g ref="char:EOLhyphen"/>ry, their whipping-Cart, their exile and impriſonment. Ask them, if Antichriſt cannot perſecute as well in the ſhape of a Prote<g ref="char:EOLhyphen"/>ſtant as a Papiſt.</p>
+            <p>Know of them whether the enjoyment of this Parliament be not the greateſt outward mercy that ever God gave <hi>England,</hi> and themſelves in particular. Ask them again, if Antichriſt be not a perſecuter in all the ſhapes he aſſumes? and whether the
+<pb n="6" facs="tcp:113965:6"/>
+ſpirit of perſecution be not the ſpirit of Antichriſt, or no.</p>
+            <p>Thus (my honeſt and ſoon-deceived Countrey-men) you may ſee by theſe few hints, among the many thouſands you may re<g ref="char:EOLhyphen"/>member of the ſame nature, what condition you were in when God raiſed you up this Parlement to be your deliverers, and what a work they had to undertake in your behalfe: They had only of theſe two things to chuſe one; either to give you and your poſte<g ref="char:EOLhyphen"/>rity up to ſlavery, or run the hazard of the utter ruining them<g ref="char:EOLhyphen"/>ſelves and families.</p>
+            <p>I need not tell you which it was they choſe; but where they begun, will be worth your obſervation.</p>
+            <p>They did not begin to lop off the branches, but to hew downe the main body of the tree: the firſt men they call'd in queſtion, being the two greateſt Subjects in the Kingdom, <hi>viz.</hi> the Lord De<g ref="char:EOLhyphen"/>puty of <hi>Ireland,</hi> and the Biſhop of <hi>Canterbury:</hi> if they had que<g ref="char:EOLhyphen"/>ſtioned more of them, then we had been quietter ſince.</p>
+            <p>But as ſoon as this wiſe Obſerver of Times, ſaw what would befall him, he preſently would change his ſhape again, and would be in the likeneſſe of a bleſſed Reformation, as he called it in the dayes of Queen <hi>Elizabeth.</hi>
+            </p>
+            <p>When that trick would not ſerve, he knew there was no other meanes left now, but his laſt ſhift, which was to ſee if he could ſtirre up the people, to riſe with the King, to cut the Parliaments throats, and by deſtroying them wholly, to inſlave and vaſſalage the people for ever.</p>
+            <p>Thus you ſee what ever he faith, you never know what hee meanes, till the laſt.</p>
+            <p>What he did in this kind, I ſhall not need to rehearſe to you: wofull experience I hope hath convinced you; though I am able to particalarize as many of his wicked cruell, and barbarous acti<g ref="char:EOLhyphen"/>ons, as any one man in <hi>England.</hi>
+            </p>
+            <p>But for further ſatisfaction, I ſhall refer you to <hi>Faringdon</hi> in <hi>Berkeſhire,</hi> to <hi>Prince Maurice</hi> his march, through <hi>Somerſet and Dorſetſhire;</hi> to <hi>Gorings</hi> Horſe in <hi>Devonſhire and Cornwall;</hi> to Prince <hi>Ruperts</hi> march through <hi>Lancaſhire;</hi> to <hi>Layton-Buzzar<g ref="char:punc">▪</g>
+               </hi> and <hi>Wooburn</hi> in <hi>Bedfordſhire:</hi> the Queens ſhriving of <hi>Burton</hi> upon <hi>Trent.</hi>
+            </p>
+            <p>And if you pleaſe to make each of theſe a Biſhop, I ſhall fur<g ref="char:EOLhyphen"/>niſh
+<pb n="7" facs="tcp:113965:6"/>
+you with as many Rapes, Murders, Robberies, and unheard of Cruelties, as ſhall make them a ſufficient Dioceſan Prieſthood.</p>
+            <p>Thus have I endeavoured to trace <hi>Antichriſt</hi> in his own ſteps to deſcribe his habits, diſcover his practiſes, and have given thee ſome hint of his actions; to this end, that if ever thou ſeeſt him or hear of him again, thou mayeſt know him.</p>
+            <p>For be you ſure, as long as there is ſo many great and ſpiritual Livings in the Kingdom; ſo much Glebe-land, and other good things called Tythes: He will not out, he will aſſume ſome other ſhape: he cares not what it is, ſo he may but do his work, and re<g ref="char:EOLhyphen"/>ceive his wages; which is<g ref="char:punc">▪</g> as you have heard, to rob, kill, and de<g ref="char:EOLhyphen"/>ſtroy you, and will make you pay him well for it too.</p>
+            <p>Now let me intreat thee by the way, to take notice, what a wonderfull deliverance God hath wrought for thee, by the hands of thoſe men, which this Monſter would have turned thy hand againſt; that if ever Nation or People ow'd themſelves to a Parlia<g ref="char:EOLhyphen"/>ment; this Nation doth.</p>
+            <p>And though there be many Sons of <hi>Belial,</hi> which had rather ſee the Kingdom ruined, ſo they might have the deſtroying of it: by fighting againſt them, then to have it ſetled in truth and peace by them: yet let them know, with all the enemies they have in the world, that if that God which hitherto hath been their wiſ<g ref="char:EOLhyphen"/>dome and ſtrength, doe keepe them cloſe to the work they have begun, <hi>viz.</hi> to loſe the bands of wickedneſſe, to take off heavie burdens, to let the oppreſſed go free, and to break every yoake: though all the power of Hell and Earth ſhould ſet up themſelves againſt them; <hi>The Lord of Hoſts is our ſtrength, why ſhould we fear? the God of Battell is our ſalvation, why ſhould we be afraid?</hi>
+            </p>
+            <p>But now my honeſt Country-men, after all this care taken and hazzards run, and bloud ſpilt: when the Parliament with all the reſt of their faithfull friends, ſcattered abroad from their owne horns in the Kingdomes ſervice, had thought their work had bin done, and nothing remained, but to receive the fruit of their for<g ref="char:EOLhyphen"/>mer labours, which is an equall participation, with the reſt of the free-born people of <hi>England,</hi> of their liberties and priviledges due to them in their ſeverall places and callings; yet, even while they were all crying <hi>peace, peace,</hi> behold <hi>warre.</hi>
+            </p>
+            <p>There appeares another Generation of Earth and Hell, like that
+<pb n="8" facs="tcp:113965:7"/>
+Beaſt in the 13. of the <hi>Revel. verſ.</hi> 11. <hi>Whoſe appearance is like a Lambe, and yet ſpeakes like a Dragon, his voyce being nothing but of war and bloud-ſhed.</hi>
+            </p>
+            <p>Many thouſands of ſuch, as the <hi>Parliament</hi> had at their mercy, and hath given them their liberties and eſtates upon eaſier terms, then ſome thouſands of their own friends have preſerved theirs by taking their parts.</p>
+            <p>And yet all the practice of theſe men is in ſpeaking evill of the <hi>Parliament,</hi> indeavouring to render them odious to the People; ſaying, <hi>they are all Independent, and will have no King,</hi> with a thou<g ref="char:EOLhyphen"/>ſand ſuch falſe aſperſions and lyes, making their boaſts, they are confident of another day, and that the war is not yet begun, &amp; that they hope to ſee the Tyde turnd ere long, with many ſuch expreſ<g ref="char:EOLhyphen"/>ſions.</p>
+            <p>That while the Parliament is disbanding their Armies, ſlighting their Garriſons, indeavouring by all poſſible meanes to eaſe the people of their burdens they have ſo long groan'd under, by rea<g ref="char:EOLhyphen"/>ſon of the warre;</p>
+            <p>Theſe ſervants of that wicked One are ſowing a new ſeed, fo<g ref="char:EOLhyphen"/>menting a new warre.</p>
+            <p>And becauſe their old Names of Papiſts, Malignants, Cavaleeres, &amp;c. are grown ſo odious to the people;</p>
+            <p>Therefore this cunning High Prieſt of theirs, <hi>Antichriſt,</hi> teach<g ref="char:EOLhyphen"/>eth them to call themſelves <hi>Preſbyterians.</hi>
+            </p>
+            <p>For, ſaith he, by ſo doing, with ſome other tricks I have, wee ſhall gain the <hi>Scottiſh Nation,</hi> with a conſiderable Party in the City to thoſe we have there already, and ſet it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard to make a di<g ref="char:EOLhyphen"/>viſion in the Houſe, by being in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> likeneſſe of <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſbyterians</hi> till ſuch time as we have gotten the King into his power, and a con<g ref="char:EOLhyphen"/>ſiderable Army of <hi>French,</hi> and our <hi>Catholick Brethren</hi> in <hi>Ireland</hi> about him.</p>
+            <p>And then we will put the <hi>Scots</hi> in minde, that they were the Beginners of all our troubles, and that they have been twice pro<g ref="char:EOLhyphen"/>claimed Rebels for fighting againſt this King. We will then tell them of the old ſaying, <hi>It is no deceit to deceive the Deceiver.</hi>
+            </p>
+            <p>We will then put <hi>London</hi> in mind of their former Zeale to the Parliaments Cauſe, and let them know, our good Ki<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g hath often times called them the Rebellious City, and had long agoe given them us for our Arrears.</p>
+            <p>
+               <pb n="9" facs="tcp:113965:7"/>We will then tell our <hi>Presbyterian Brethren,</hi> of their infirmi<g ref="char:EOLhyphen"/>ties, our faithfull Brother Biſhop <hi>Maxwell</hi> reckons up in his Book, entituled <hi>Iſſachars Burden.</hi>
+            </p>
+            <p>We will then convince them, as they would have convinced the <hi>Independents</hi> with an Ordinance againſt Hereſie and Blaſphe<g ref="char:EOLhyphen"/>my &amp;c.</p>
+            <p>Thus friends, if ye have not reſolved, to ſay its dark, when the Sun ſhines, if ever your parſons tell you ſo, you may ſee this Spirit of <hi>Malignanc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> and <hi>Antichrist</hi> in all parts of the Kingdome, in the ſhape or likeneſſe of <hi>Presbyters.</hi>
+            </p>
+            <p>If there were but a Garriſon ſlighted, or Souldiers disbanded, where the Parliament conceives them uſeleſſe to the Kingdome, they are told it is, becauſe they are <hi>Presbyterians.</hi>
+            </p>
+            <p>If there be but an Officer caſhiered in the Army for the moſt vild miſdemeanour that can be committed, be it Drunkenneſſe of Swearing, or Whoring, or plundering, &amp;c. be cryes out, it is be<g ref="char:EOLhyphen"/>cauſe he is a <hi>Presbyterian.</hi>
+            </p>
+            <p>And thus I could inſtance in many particulars, but I reſerve them for future occaſion.</p>
+            <p>And if this trick be but a little better learned, the Parliament ſhall not call in a Malignant to pay his Compoſition, but hee will preſently cry out, he is ſequeſtred for being a <hi>Presbyter.</hi> Nor pu<g ref="char:EOLhyphen"/>niſh a Prieſt for Faction in the Pulpit in endeavouring to render the Parliament odious to the People, but he will cry out, he is a <hi>Presbyterian.</hi>
+            </p>
+            <p>As if the being a <hi>Presbyterian</hi> were a tolleration to commit all kind of wickedneſſe without controll.</p>
+            <p>As if Faction and Sedition, with Drunkenneſſe and Swearing, &amp;c. in <hi>Presbytery,</hi> were as abſolute <hi>Jure Divino</hi> as their Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Nay further, if you ride through the whole Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and Dominion of <hi>Wales,</hi> except ſome few Pariſhes, where the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is a very good L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving of 100. <abbr>l.</abbr> or 200. <abbr>l.</abbr> 
+               <hi>per annum.</hi>
+            </p>
+            <p>Who ſhall you find but ſome old-faſhion'd Common-prayer-book-Prieſt, and all he is able to obſerve out of the Directory, is, to read a Chapter, ſing a Pſalm, and ſay the peace of God, and away goes he to dinner, he hath moſt skill of that.</p>
+            <p>If yee doe now and then meet with a ſecond ſort of them;
+<pb n="10" facs="tcp:113965:8"/>
+which, with a great deale of care, and pains-taking, can write as much in a peece of paper in ſix-dayes, as he is able to read in halfe an houre on the ſeventh day, and adde but thus much <hi>(ex tempore)</hi> to it.</p>
+            <p>
+               <hi>O theſe curſed Schiſmatickes, Sectaries, Heretickes, Indepen<g ref="char:EOLhyphen"/>dents, &amp;c.</hi>
+            </p>
+            <p>He is a mighty well-gifted man; he is fit to make one of the Claſſes, at leaſt.</p>
+            <p>Nay, a man may goe into a thouſand Pariſhes in this King<g ref="char:EOLhyphen"/>dome, and demand but of the Parſon, why he doth not weare the Surplice, and read Common-prayer, and bow to the Altar as he uſed to doe;</p>
+            <p>And all the anſwer he can give, is, the Parliament hath put them down.</p>
+            <p>Ask them why they obſerve the Directory; why, the Parlia<g ref="char:EOLhyphen"/>ment hath put it out. Or, ſome of them are ſo learned, as to ſay, they have impoſed it, or eſtabliſht it.</p>
+            <p>So that we want nothing but a Parliament to eſtabliſh Pope<g ref="char:EOLhyphen"/>ry: for we have Prieſts as ready to officiate, as any Kingdom in Chriſtendome.</p>
+            <p>Theſe things conſidered, what manner of Church-goverment are we like to have, think yee, when we have like people, like Prieſts?</p>
+            <p>And yet all the ableſt Miniſters of the Kingdome muſt be ga<g ref="char:EOLhyphen"/>thered together at <hi>London</hi> to teach one another, and the poore ignorant people in the Countrey, periſh for want of knowledge.</p>
+            <p>Doe yee think it would not be a more Chriſtian brotherly way for them, to goe up and down the Countrey teaching the Goſpel; then to be at <hi>London</hi> procuring puniſhment for the peo<g ref="char:EOLhyphen"/>ple for their not believing it before they have heard it?</p>
+            <p>
+               <hi>A</hi> man may ride twenty miles together in ſome parts of the Kingdome, and not finde two men in a Pariſh, that know what a Presbyter, or Elder, or Deacon is, except yee mean Biſhops and Arch-deacons, ſuch as they uſe to have in another ſhape.</p>
+            <p>All I would deſire you to obſerve from theſe things is this: what ſmall reaſon any honeſt people of this Kingdome have to b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame the Parliament for not ſetting Church Government, when the tenth part of the Kingdome is not capable of re<g ref="char:EOLhyphen"/>ceiving
+<pb n="11" facs="tcp:113965:8"/>
+it, nor the tenth part of the miniſtery capable of officia<g ref="char:EOLhyphen"/>ting it.</p>
+            <p>My honeſt Countrey men look about you, be no more de<g ref="char:EOLhyphen"/>ceived; for all the noyſe you heare in the Kingdome is not for Presbiter-Government: they do but put on the ſame Go<g ref="char:EOLhyphen"/>vernment to ſee if they can deceiue him of his Birth-right; for godly Presbyterians, and godly <hi>Independents</hi> muſt all drink of one Cupp, and they that have the laſt draught may come to have the dreggs too for ought I know.</p>
+            <p>And if not godly, ye may be <hi>Presbyters</hi> and <hi>Independents</hi> too, you are not the men they aime at.</p>
+            <p>But now it is come to this paſſe, that if a man do but ſpeake well of the Parliament, what ever his Judgement be, he muſt be an <hi>Independent.</hi>
+            </p>
+            <p>Nay I have obſerved it, having had occaſion to ride through moſt parts of this Kingdome lately, that there are many godly conſciencious people which have not a preaching Miniſter with<g ref="char:EOLhyphen"/>in five miles of them, and if there, hardly worth the going to, and ſome of theſe people for uſing meanes to procure a preach<g ref="char:EOLhyphen"/>ing Miniſter; for ſo doing are called <hi>Independents,</hi> and for ſuch, hated and abuſed by their Malignant dumb Preiſt, and the reſt of their Neighbours.</p>
+            <p>I could inſtance many particulars of this nature, I ſhall onely name two.</p>
+            <p>The one is at <hi>Charlbury</hi> in <hi>Oxfordſhire,</hi> the Pariſh being great hath three Churches all in one ſimple fellows, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands, hard<g ref="char:EOLhyphen"/>ly fit to make a Clarke, one of the places having a competent meanes to maintaine a Miniſter, hath indeavoured to procure one, and for ſo doing, are called <hi>Independents,</hi> and for ſuch ha<g ref="char:EOLhyphen"/>ted and diſpiſed.</p>
+            <p>Another place is at <hi>Eaſt hendred</hi> in <hi>Bark-ſhire</hi> where there is a wicked Malignant Prieſt called Doctor <hi>Rogers,</hi> he was the Kings Chaplin in <hi>Oxford,</hi> his pariſh preferred Articles againſt him to the Generall, the Generall referred them to the Committees, the Articles were theſe or to this purpoſe. That the ſaid Doctor <hi>Rogers</hi> had ſeverall times delivered in the Pul<g ref="char:EOLhyphen"/>pet before his pariſhoners, theſe or ſuch like expreſſions.</p>
+            <p>That the Parliament at <hi>Weſtminſter</hi> were Rebels and Traytors.</p>
+            <p>
+               <pb n="12" facs="tcp:113965:9"/>That he hop't to ſee their heads from their bodies, and their Limbs drying in the Sun.</p>
+            <p>That it was Treaſon to call them a Parliament.</p>
+            <p>In his prayer, praying for their confuſion under the names of the Kings enemies.</p>
+            <p>Comparing them to <hi>Korah, Dathan,</hi> and <hi>Abiram,</hi> and wiſhing the earth might open and ſwallow them up: fre<g ref="char:EOLhyphen"/>quently praying they might be like <hi>Oreb,</hi> and <hi>Zeeb,</hi> and that they might ſlee before the Lords annointed like <hi>Zeba,</hi> and <hi>Sal<g ref="char:EOLhyphen"/>munna,</hi> with abundance more of this nature: For endeavouring to put him out, and to have another in his place, the poore men were calld <hi>Independents,</hi> and for ſuch hated, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd perſecu<g ref="char:EOLhyphen"/>ted: ſome of the poor men being weary of their lives &amp; homes, came to <hi>Oxford</hi> to intreate me to be their friend to the Gene<g ref="char:EOLhyphen"/>rall profeſſing they durſt not go home to their wives and Children, the Malignants wrath not being contented to perſe<g ref="char:EOLhyphen"/>cute them himſelfe with the reſt of his complyces in his pariſh; but procured troopers of <hi>Abington</hi> Horſe, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o fright, ſlander and abuſe them under the name of <hi>Independents,</hi> and Tub-preachers.</p>
+            <p>Thus my honeſt Cuntrey men, if the enemies of your peace have but ſo much wit as to call you <hi>Independents;</hi> according to theſe practiſes, its policy enough to deſtroy you all.</p>
+            <p>Its cauſe of admiration, that ſo many rationall godly men, as bee in this Kingdome of the Presbyterian Judgment ſhould be ſo blind as not to ſee in every part of his Kingdome, that the ſame ſpirit of Malignancy, and Anti Chriſt which hitherto hath oppoſed the Parliament in their proceedings, hath alrea<g ref="char:EOLhyphen"/>dy aſſumed the ſhape of a <hi>Presbyter,</hi> thereby to make a further rent and diviſion in the Kingdome, to the end they may de<g ref="char:EOLhyphen"/>ſtroy both Parliament and people.</p>
+            <p>Let me appeale to any that have not ſold themſelves to par<g ref="char:EOLhyphen"/>tiality, and have not wholly given up themſelves to believe lies.</p>
+            <p>What do ye think by that army of <hi>French</hi> ſo much feard and talkt of?</p>
+            <p>Will they be al <hi>Presbyters</hi> think you, have ye forgotten the bloody maſſacre in <hi>France?</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:113965:9"/>Were none murdered there but <hi>Independents</hi> think ye.</p>
+            <p>Nay further, what kind of <hi>Presbyter</hi>-Government ſhal we have ſetled by the <hi>Iriſh</hi> Rebels think ye; for they muſt come to aſſiſt you in that precious work too.</p>
+            <p>Have none of their unheard of inhumane cruelties been acted againſt any but <hi>Independents</hi> think ye.</p>
+            <p>What do ye think of the Lord <hi>George Digby</hi> that is to com<g ref="char:EOLhyphen"/>mand the Army for <hi>England</hi> from thence, is not there a reve<g ref="char:EOLhyphen"/>rend <hi>Presbyter.</hi>
+            </p>
+            <p>Nay further, what do you think of the gathering together of thoſe kind of creatures in the North we uſed to call Cava<g ref="char:EOLhyphen"/>liers, are they all turned <hi>Presbyters</hi> think ye.</p>
+            <p>Were they not within this twelve moneths firing of Towns, plundering of Houſes, murdering of people, raviſhing of wo<g ref="char:EOLhyphen"/>men wherever they came in the Kingdome, and went under the name of dammee Cavaliers, and the Popiſh Army, and are they ſo ſuddenly converted, and altogether, its time we had a nationall Church Government ſetled then.</p>
+            <p>Oh that ever men ſhould thus delude themſelves and be their own betrayers, and murderets, that at ſuch a time as this, when there is ſuch viſible treachery, and wicked plotting, ten<g ref="char:EOLhyphen"/>ding to the ruine of the whole Kingdome, that men ſhould be ſilent which have ſo great an intereſt in it, and ſo much cauſe to defend the liberty of it.</p>
+            <p>Have we not cauſe to feare that there is a lying ſpirit in the mouthes of our Prophets, that at ſuch time as this is can flat<g ref="char:EOLhyphen"/>ter theſe ſpirituall wickedneſſes in high places; if they were the Lords watchmen, they would not be ſtirring up <hi>Iſrael</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Judah,</hi> and <hi>Iudah</hi> againſt <hi>Iſrael,</hi> but would tell <hi>Iudah</hi> of his ſins, and <hi>Iſrael</hi> of his tranſgreſſion.</p>
+            <p>Oh that we may never ſee the day that thoſe which <hi>Englands</hi> Parliament hath choſen out of reſpect to their learning and piety to be their familiar freinds, and take ſweet Councel to<g ref="char:EOLhyphen"/>gether, ſhould in the dayes of <hi>Abſolom</hi> riſing up againſt <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> act the part of Achitophel. Is it poſſible thoſe which could fore-ſee things ſo long in the laſt plot, if not partiall could be ſo blind in this, and if ſeeing it, if not deceitfull could be ſo dumb in not declaring it.</p>
+            <p>
+               <pb n="14" facs="tcp:113965:10"/>Whats the reaſon ye have ſuch a noyſe in the pulpits againſt ſuch things as could never be ſufficiently proved evill, and the great crying ſinnes of the nation hardly ſpoke of? as if one ſin againſt the Clergy were more dangerous then a multitude of the ſinns of <hi>Sodom,</hi> which this Kingdome is full of againſt that God of Heaven and Earth, which deſtroyed <hi>Sodom</hi> for ſin.</p>
+            <p>By this ye may clearly ſee they preach themſelves, and not <hi>Chriſt Ieſus</hi> the Lord.</p>
+            <p>But conſidering it is rather their infirmities then their qua<g ref="char:EOLhyphen"/>lities: Let us earneſtly deſire, the Lord would open their mouth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, &amp; they might ſhew forth his prayſe, that ſeekleſſe their own things and more the things of <hi>Ieſus Chriſt:</hi> that they may no longer call evill good, and good evill, but re<g ref="char:EOLhyphen"/>prove the infirmities of their Brethren, as the Apoſtle did with the ſpirit of love and meekneſſe: and when they are ſpeaking againſt the prophaneſſe, lewdnes and wickedneſſe of the Nation; to cry aloud and ſpare not: to lift up their voice like a Trumpet: to preach as thoſe that have authority, and not as the Scribes. I ſhall for a con<g ref="char:EOLhyphen"/>cluſion deſire your conſideration on the 33. and 34. Chapters of the propheſie of <hi>Ezekiel.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb n="15" facs="tcp:113965:10"/>
+            <head>The Poſtſcript.</head>
+            <opener>
+               <salute>Chriſtian Reader.</salute>
+            </opener>
+            <p>I Shall deſire thy Impartiall Cenſure on theſe few things. Judge, but Judge not falſe Judgement. Though I have en<g ref="char:EOLhyphen"/>devored to diſcover to thee that <hi>Antichriſt</hi> is crept in a<g ref="char:EOLhyphen"/>mongſt us in the ſhape of a <hi>Presbyter,</hi> yet do I not in the leaſt here ſtrive to perſwade thee that <hi>Presbytery</hi> is <hi>Anti<g ref="char:EOLhyphen"/>chriſtian;</hi> for we have been too forwards to judge of men, and things as they have been repreſented to us under good or bad names. And from thence roſe that true proverb among us, a Iew would not have done ſuch a thing. But the Apoſtle tells them, he is not a Iew that is one outwardly, but he that is one inwardly. <hi>Rom.</hi> 2.28. and this was the, cauſe the Saints in the Apoſtles time differed ſo much by judging one another according to outward appearance as they were diſtinguiſht by their names, ſome of <hi>Paul,</hi> and ſome of <hi>Apoll.</hi> s, &amp;c. 1. <hi>Cor.</hi> 1.12.</p>
+            <p>And therefore when Chriſt is propheſied on to come a Judge, it is ſaid he ſhall not judg <hi>after the ſight of his eyes, nor reprove after the hearing of his eares, but he ſhall judge with righ<g ref="char:EOLhyphen"/>teouſneſſe, and reprove with equity,</hi> and though our Judges be forwardeſt to judge for the rich, and ſpeak in the proud mens Cauſe, <hi>Chriſt ſhall judge for the poor, and reprove for the meek, Eſa.</hi> 11.31. Therefore take heed thou doſt not by thy thus judging, condemn that which Chriſt ſhall juſtifie, and juſtifie that which Chriſt ſhall condemn, eſpecially in things that con<g ref="char:EOLhyphen"/>cerne Chriſts Kingdom: and godly people, becauſe Chriſt himſelfe is thereby either juſtified or condemned by them. <hi>Luk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 10.16. <hi>Acts</hi> 9 4.</p>
+            <p>
+               <pb n="16" facs="tcp:113965:11"/>Therefore that I would deſire thee to obſerve in theſe few things is this, that Jeſus is Chriſt though Crowned with thornes and in a robe of mockery. <hi>Mat.</hi> 27.29. that <hi>Jacob</hi> is not <hi>Eſau</hi> though in his garment, <hi>Gen.</hi> 27.15. and that <hi>Ioſephs</hi> Coate is known to his Father though dipt in blood. <hi>Gen.</hi> 37.33. And againe, that <hi>Antichriſt</hi> is a <hi>Wolfe,</hi> though in <hi>Sheepes</hi> Cloathing, <hi>Mat.</hi> 7.15, as much that beaſt when he appeared like a <hi>Lambe</hi> with two hornes, <hi>Rev.</hi> 13.11. as when he had the ſeven heads and ten hornes, <hi>v.</hi> 1. as falſe an Apoſtle when he is transformed into an Angel of light or is like the Apoſtle of Chriſt, 2 <hi>Cor.</hi> 11.13.14. as when he is that great red Dragon ſtanding before the woman ready to devoure her ſeede. <hi>Rev.</hi> 12.4.</p>
+            <p>If thou doſt aske me how thou ſhalt then know him?</p>
+            <p>I anſwer, by his workes; for whatſoever his ſhape is, his buſineſſe is all one.</p>
+            <p>For there are ſome deceivers which are not <hi>Antichriſt,</hi> ſuch were <hi>Peter, Gal.</hi> 2.12. and the leaders of the Saints in the 1 <hi>Cor.</hi> 1. and ſeverall others through infirmity or miſtake, and theſe the Apoſtle reproves as Brethren.</p>
+            <p>But the end of this decever is on purpoſe to deſtroy. <hi>This is that roaring Lyon which goeth about ſeeking whom he may de<g ref="char:EOLhyphen"/>voure,</hi> 1 <hi>Pet.</hi> 5.8.</p>
+            <p>Therefore of all decevers, beware of the devouring deſtroy<g ref="char:EOLhyphen"/>ing decever, ſuch as doth not onely come with their mouthes full of deeeit; but with their hands full of blood, who make it their buſineſſe to root up, pull downe, and deſtroy; for the buſineſſe of Chriſts Miniſters is to plant, to build and ſet up. Therefore ſaith Chriſt, <hi>I come not to deſtroy mens lives but to ſave them.</hi> It was the work of the theife. <hi>Iohn</hi> 10.10. to ſteale, to kill and deſtroy. <hi>But I am come that ye might have life ſaith Chriſt, and that ye might have it more abundantly.</hi>
+            </p>
+            <p>Thus if thou art not one of thoſe whom the God of this world hath blinded the eyes of, or that have eyes and ſee not, eares and heare not, thou canſt not but confeſſe that thoſe de<g ref="char:EOLhyphen"/>cevers which are ſo much in blood that are all for impriſoning, hanging, and burning are of <hi>Antichriſt</hi> what ſhape ſoever they are in.</p>
+            <p>
+               <pb n="17" facs="tcp:113965:11"/>For the Churches of Saints in the Apoſtle; dayes, were a<g ref="char:EOLhyphen"/>mong <hi>Heathens</hi> and <hi>Pagans, Turkes</hi> and <hi>Iews.</hi>
+            </p>
+            <p>Such as held ſtrange opinions, ſuch as worſhipt the Hoſt of Heaven, would have worſhipt the Apoſtles as Gods. <hi>Acts</hi> 14.11. denyed the reſurrection. <hi>Acts</hi> 23.8. 1 <hi>Cor.</hi> 15.12. ſuch as were ſo farre from calling the Apoſtles <hi>Rabby</hi> or Maſter that they called Chriſt himſelfe <hi>Belzebub</hi> and the Apoſtles de<g ref="char:EOLhyphen"/>ceevers and bablers, thought them unworthy to live upon the earth. <hi>Acts</hi> 17.18. <hi>Acts</hi> 22.22. ſuch as had ſeducing ſpirits, taſt doctrines of devills, ſpeaking lyes in hypocriſie. 1 <hi>Tim.</hi> 4.2. Boaſters, proud, Blaſphemers, without naturall affection, Truce-breakers, falſe accuſers, incontinent, fierce deſpiſers of all good. 2 <hi>Tim.</hi> 2.3.4. ſuch as held damnable hereſies, even denying the Lord that bought them. 2 <hi>Pet.</hi> 2.1.</p>
+            <p>And yet no perſecution, no impriſoning, hanging, nor burn<g ref="char:EOLhyphen"/>ing.</p>
+            <p>If thou or any that tells them it is lawfull to deſtroy men for not believing, can but ſhew me out of the word of God, where the time, place, or perſon, where, Chriſt or the A<g ref="char:EOLhyphen"/>poſtles, or any after them, we have ground to take example by did endeavour by any outward compulſion to force men to believe, or puniſh any further then excommunication, for not walking in the faith receiſed when they have done; if they can procure me letters, I will away to <hi>Damaſcus</hi> preſently.</p>
+            <p>But this was never the practiſe of Chriſt and his Church.</p>
+            <p>But of <hi>Antichriſt</hi> and his tribe, it is they that are guilty of all the blood ſpilt in this kind, from <hi>Abel</hi> to this preſent day.</p>
+            <p>It is not the ſpouſe of Chriſt that cometh up from the wil<g ref="char:EOLhyphen"/>derneſſe; leaning upon her beloved. <hi>Cant.</hi> 8.5.</p>
+            <p>But that great Scarlet whore that comes riding upon the beaſt, with whom the Kings of the earth haue committed for<g ref="char:EOLhyphen"/>nication, and the Inhabitants of the earth have been made drunk with the wine of her fornication. <hi>Rev.</hi> 17.12. which is the blood of the Saints and Martyrs of Jeſus, verſ. 6.</p>
+            <p>Not the Lamb ſlaine from the begining of the world.</p>
+            <p>But they which have been alwayes ſlaying the Lamb.</p>
+            <p>Not the Shepard that have thus deſtroyed the Sheepe.</p>
+            <p>
+               <pb n="18" facs="tcp:113965:12"/>But the wolfe whoſe nature it is to deſtroy, not from that God that ſo loved the world that he gave his Son, but from the Divell, which is come downe into the earth with great wrath, having but a ſhort time.</p>
+            <p>Now reader if there be nothing here diſcover'd, but what you knew before, conſider, it was never intended for thee, but to in<g ref="char:EOLhyphen"/>forme the ignorant, and conforme the weak, to be a light to ſuch as are blinded with the ſmoke that aſcends out of the bot<g ref="char:EOLhyphen"/>tomleſſe pit, <hi>Rev.</hi> 9.2. from whence aroſe this High Prieſt, <hi>Antichriſt,</hi> with all his tribe, verſ 3. compared with the 11. who are ſcattered up and downe this Kingdom endeavouring to deceive and deſtroy the people: whoſe way of deceiving you ſhall finde to be after this manner, to perſwade the people that the Parliament had no cauſe to wage warre with the King at the firſt. In anſwer to which I have pend the firſt part of my diſcourſe, and where that will not take, then they transforme themſelves into the ſhape or likeneſſe of <hi>Preſbyters,</hi> and then endeavour to perſwade the people, the Parliament are moſt of them <hi>Sectaries,</hi> and that they with the reſt of the <hi>Sectaries</hi> of the Kingdome, (in whom they conclude all the Parliament friends, whether <hi>Preſby<g ref="char:EOLhyphen"/>ters</hi> or <hi>Independents</hi>) will have no Church-Government, but put down all religion, as they call it: Which baite is not onely taking with the ſcandalous and ignorant, but with many knowing people, becauſe Church-Government is not, for the preſent, ſet<g ref="char:EOLhyphen"/>led: In anſwer to which, I have endeavoured to ſhew the unfitnes of the generality of this Kingdom for Church-Government, with ſome briefe diſcoveries of their <hi>Preſbyterian</hi> practiſes, and ſome probabilities of their ends and deſignes. My end in penning of it, is onely this, to let all <hi>Syons</hi> friends, ſee that the enemies of their peace have no ſuch way to deſtroy them, as to become ſome thing like unto them.</p>
+            <p>And that however they are now ſeparated one from another, by names of opinions;</p>
+            <p>Yet if they be Chriſts, then are they <hi>Abrahams</hi> Seed, and heires according to promiſe.</p>
+            <p>And though they be not all baptiſed into one Church fel<g ref="char:EOLhyphen"/>lowſhip
+<pb n="19" facs="tcp:113965:12"/>
+or way of worſhip, yet they are all baptiſed into that one body of which Chriſt is the head, by that one eternall ſpi<g ref="char:EOLhyphen"/>rit, and ſo are Members one of another, 1 <hi>Cor.</hi> 12.13.</p>
+            <p>And are thereby all imbarqu't in one Ship, and muſt all ſink or ſwim together.</p>
+            <p>So deſiring thee, what thou findeſt to be truth in it, it may not fare the worſe, for the rudeneſſe of the ſtyle. I referre it to your conſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eration, and ſhall ever be yours in the Kingdomes Cauſe.</p>
+            <closer>
+               <signed>R. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
